@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Models\\Models.csproj",
+      "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\Models\\obj\\",
+      "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj": {}
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj": {
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",

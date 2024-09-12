@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj": {}
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj": {
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\Common\\obj\\",
+        "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",

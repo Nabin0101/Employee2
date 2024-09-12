@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navee\\Desktop\\Employee\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navee\\Desktop\\Employee\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,17 +29,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj"
+              "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj"
               },
-              "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj"
+              "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\navee\\Desktop\\Employee\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Models\\Models.csproj"
+              "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\Models.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj": {
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\Common\\obj\\",
+        "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,14 +175,14 @@
         }
       }
     },
-    "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -200,8 +200,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj"
+              "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj"
               }
             }
           }
@@ -270,14 +270,14 @@
         }
       }
     },
-    "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj": {
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -331,14 +331,14 @@
         }
       }
     },
-    "C:\\Users\\navee\\Desktop\\Employee\\Models\\Models.csproj": {
+    "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\Models\\obj\\",
+        "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",

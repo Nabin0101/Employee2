@@ -1,0 +1,62 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+
+# Ignore packages
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+!packages/repositories.config
+
+# Ignore the JetBrains Rider IDE folder
+.idea/
+
+# Ignore NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore for Publish folder (if applicable)
+publish/
+
+# Ignore Resharper
+_ReSharper*/
+
+# Ignore stylecop files
+StyleCopReport.xml
+
+# Ignore other project files
+*.psess
+*.vspx
+
+# Ignore SQL Server files
+*.mdf
+*.ldf
+
+# Windows specific
+[Dd]esktop.ini
+[Tt]humbs.db
+
+# OSX specific
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore coverage results
+TestResults/
+*.coverage
+*.coveragexml
+_UpgradeReport_Files/
+UpgradeLog*.XML

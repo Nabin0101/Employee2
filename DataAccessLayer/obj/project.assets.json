@@ -1157,11 +1157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navee\\Desktop\\Employee\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1179,8 +1179,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\navee\\Desktop\\Employee\\Entities\\Entities.csproj"
+            "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\navee\\Desktop\\Employee - Copy\\Entities\\Entities.csproj"
             }
           }
         }
